@@ -73,9 +73,3 @@ Enable a breakpoint by adding `breakpoint()` to your code, start your applicatio
 docker attach container-5oy7ga
 ```
 Ta-da! You'll be inside the [Python debugger](https://docs.python.org/3/library/pdb.html#module-pdb) ( ⬅️ Read this!)
-
-
-
-## Questions
-
-- How was this built? [All code is here](https://github.com/KarmaComputing/container-hosting)
