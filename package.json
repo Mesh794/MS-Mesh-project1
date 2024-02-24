@@ -1,0 +1,19 @@
+{
+  "name": "package_tea",
+  "description": "It's a test package for the tea",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mesh794/MS-Mesh-project1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mesh794/MS-Mesh-project1/issues"
+  },
+  "homepage": "https://github.com/Mesh794/MS-Mesh-project1"
+}
